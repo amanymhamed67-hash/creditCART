@@ -16,7 +16,7 @@ Predict whether a customer is likely to default or not.
 - Logistic Regression / Random Forest
 
 ## 📈 Results
-- Accuracy: 85% (or your result)
+- Accuracy: 95% (or your result)
 
 ## 📁 Dataset
 - Financial dataset with customer information
@@ -27,4 +27,4 @@ Predict whether a customer is likely to default or not.
 3. View predictions
 
 ## 👩‍💻 Author
-Your Name
+Amany Mohamed
